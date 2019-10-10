@@ -3,4 +3,4 @@ Research and resources for the "When Your Happy Dreams Are About Dying" conferen
 
 Please take the survey at https://wyhdaad.limequery.com/578576
 
-View the [resources](https://github.com/zakgreant/happy-dreams/wiki/Resources) page in the [wiki](https://github.com/zakgreant/happy-dreams/wiki/] for various FLO and tech industry-specific burnout and mental health resources.
+View the [resources](https://github.com/zakgreant/happy-dreams/wiki/Resources) page in the [wiki](https://github.com/zakgreant/happy-dreams/wiki/) for various FLO and tech industry-specific burnout and mental health resources.
